@@ -56,7 +56,7 @@ Clone the repository:
 
 Bash
 
-git clone [https://github.com/Furqan-Majeed/snake_water_gun_game.git](https://github.com/Furqan-Majeed/snake_water_gun_game.git)
+git clone https://github.com/Furqan-Majeed/snake_water_gun_game.git
 Navigate to the project folder:
 
 Bash
