@@ -41,7 +41,7 @@ random module
 
 Clone the repository:
 
-git clone https://github.com/your-username/snake_water_gun_game.git
+git clone https://github.com/Furqan-Majeed/snake_water_gun_game.git
 
 
 Navigate to the project folder:
